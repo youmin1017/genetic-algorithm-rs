@@ -9,7 +9,7 @@ Just Homework
 
 ## Result
 
-![[Pasted image 20231025000958.png]]
+![](images/result.png)
 
 ## Code
 
@@ -212,7 +212,7 @@ impl Chromosome for SqrtChromosome {
 }
 ```
 
-##### Get_fitness 
+##### Get_fitness
 
 ```rust
 fn get_fitness(&self) -> f64 {
@@ -241,7 +241,7 @@ fn calculate_fitness(&self) -> f64 {
 	// caculate: 1 - abs(5 - x^2)
 	let dec = num as f64 + fra;
 	let dis = (self.target as f64 - dec.powi(2)).abs();
-	1_f64 - dis 
+	1_f64 - dis
 }
 
 ```
