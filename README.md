@@ -62,7 +62,7 @@ fn main() {
 ### Chromosome Trait
 
 
-> [!NOTE] Trait
+> [!NOTE]
 > 如果 struct 有 Chromosome 這個 Trait 就必須實作 Trait 中的函式
 
 ```rust
