@@ -2,7 +2,7 @@
 Just Homework
 
 > [!WARNING]
-> This README is copies from my obsidian note, so may not have good format
+> This README is copied from my obsidian note, so may not have good reading experience
 
 > [!NOTE]
 > * This Genetic Algorithm is implemented with `rust`
